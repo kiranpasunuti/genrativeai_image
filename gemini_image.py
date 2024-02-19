@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 
 ## AIzaSyA4ACANQRcchCNDXamY0Neyp9Yo_2dvK8w
-from google.generativeai import GenerativeModel
+#from google.generativeai import GenerativeModel
 from dotenv import load_dotenv
 load_dotenv()
 import streamlit as st
